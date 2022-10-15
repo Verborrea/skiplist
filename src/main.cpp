@@ -1,4 +1,4 @@
-#include "src/skiplist.hpp"
+#include "skiplist.hpp"
 #include <chrono>
 
 #define ELEMS  1000000
